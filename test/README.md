@@ -72,6 +72,21 @@ You can add an image or a code block, too.
 First Term
 : This is the definition of the first term.
 
+<details>
+
+<summary>Cycle Details</summary>
+
+text before table
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+footer text
+
+</details>
+
 Second Term
 : This is one definition of the second term.
 : This is another definition of the second term.
