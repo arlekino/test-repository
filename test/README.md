@@ -53,6 +53,22 @@ This is the first line.
 This is the first line. 
 And this is the second line.
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
 First Term
 : This is the definition of the first term.
 
