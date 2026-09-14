@@ -4,6 +4,10 @@
 Here is a simple footnote[^1].
 A footnote can also have multiple lines[^2].
 
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
+This is a second line.
+
 I really like using Markdown.
 
 I think I'll use it to format all of my documents from now on.
@@ -86,7 +90,3 @@ eat: it was a [hobbit-hole](https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobb
     - Indented item
     - Indented item
 - Fourth item
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
-This is a second line.
