@@ -17,6 +17,16 @@ At the command prompt, type `nano`. If the word or `phrase you want to denote` a
 you can escape it by enclosing the word or phrase in double backticks ``Use `code` in your Markdown file.``
 To denote a word or phrase as code, enclose it in backticks.
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+```
+console.log("notice the blank line before this function?");
+```
+
 I need to highlight these ==very important words==.
 
 I really like using Markdown.
