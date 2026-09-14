@@ -113,6 +113,16 @@ Second Term
 ### A third-level heading
 When you use two or more headings, GitHub automatically generates a table of contents that you can access by clicking the "Outline" menu icon  within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
 
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends
 of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to
 eat: it was a [hobbit-hole](https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"), and that means comfort.
