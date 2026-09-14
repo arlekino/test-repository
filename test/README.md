@@ -60,6 +60,11 @@ This is the first line.
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
 This is the first line. 
 And this is the second line.
 
