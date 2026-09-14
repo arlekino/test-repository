@@ -13,8 +13,8 @@ I really like using Markdown.
 I think I'll use it to format all of my documents from now on.
 
 To denote a word or phrase as code, enclose it in backticks. 
-At the command prompt, type `nano`. If the word or `phrase you want to denote` as code includes one or more backticks, 
-you can escape it by enclosing the word or phrase in double backticks ``Use `code` in your Markdown file.``
+At the command prompt, type `nano`. If the word or `phrase you want to denote as code includes one or more backticks, you can escape it by enclosing the word or phrase` 
+in double backticks ``Use `code` in your Markdown file.``
 To denote a word or phrase as code, enclose it in backticks.
 
 ```
