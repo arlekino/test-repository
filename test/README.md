@@ -4,9 +4,13 @@
 Here is a simple footnote[^1].
 A footnote can also have multiple lines[^2].
 
+### third level heading
+
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
 This is a second line.
+
+#### fourth level heading
 
 I really like using Markdown.
 
@@ -29,6 +33,8 @@ console.log("notice the blank line before this function?");
 
 I need to highlight these ==very important words==.
 
+##### fiveth level heading
+
 I really like using Markdown.
 I think I'll use it to format all of my documents from now on.
 
@@ -46,6 +52,8 @@ I think I'll use it to format all of my documents from now on.
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+###### sixth level heading
 
 This is the first line.
 
